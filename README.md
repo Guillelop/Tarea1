@@ -1,4 +1,8 @@
 # Tarea1
+
+![image](https://user-images.githubusercontent.com/124578717/217497059-1d336f8d-5d5a-489b-af21-6fbbd7cef971.png)
+
+
 Aquí dejaré un programa que hará las siguientes funciones: 
 Verificar interfaces, 
 Verificar si hay conectividad con google, 
